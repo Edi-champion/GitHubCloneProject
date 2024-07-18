@@ -1,2 +1,2 @@
 # GitHubCloneProject
-Scd repo alx
+This is the description of my repo
